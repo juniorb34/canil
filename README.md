@@ -1,7 +1,7 @@
 # canil
 
 ### Pré-requitos globais:
-'npm i -g nodemon typescript ts-node'
+'''npm i -g nodemon typescript ts-node'''
 
 ### Instalação
 'npm install'
